@@ -3,3 +3,6 @@ langchain
 langgraph
 python-dotenv
 psycopg2
+fastmcp
+langchain-groq
+langchain-mcp-adapters
